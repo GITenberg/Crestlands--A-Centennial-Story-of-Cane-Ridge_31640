@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '35376'
     url: http://www.gutenberg.org/2009/agents/35376
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31640#Crestlands--A-Centennial-Story-of-Cane-Ridge
 gutenberg_issued: '2010-03-14'
 gutenberg_type: Text
 identifiers:
